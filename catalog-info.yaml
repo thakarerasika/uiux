@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: uiux
   annotations:
-    github.com/project-slug: gsuntce/uiux
+    github.com/project-slug: thakarerasika/uiux
 spec:
   type: other
   lifecycle: unknown
-  owner: guests
