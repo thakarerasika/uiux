@@ -1,0 +1,236 @@
+@font-face {
+    font-family: 'TTNormsBlack';
+   	src: url('../../assets/fonts/TTNorms-Black.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsBlackItalic';
+   	src: url('../../assets/fonts/TTNorms-BlackItalic.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsBold';
+   	src: url('../../assets/fonts/TTNorms-Bold.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsBoldItalic';
+   	src: url('../../assets/fonts/TTNorms-BoldItalic.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsExtraBold';
+   	src: url('../../assets/fonts/TTNorms-ExtraBold.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsExtraBoldItalic';
+   	src: url('../../assets/fonts/TTNorms-ExtraBoldItalic.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsExtraLight';
+   	src: url('../../assets/fonts/TTNorms-ExtraLight.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsExtraLightItalic';
+   	src: url('../../assets/fonts/TTNorms-ExtraLightItalic.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsHeavy';
+   	src: url('../../assets/fonts/TTNorms-Heavy.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsHeavyItalic';
+   	src: url('../../assets/fonts/TTNorms-HeavyItalic.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsItalic';
+   	src: url('../../assets/fonts/TTNorms-Italic.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsLightItalic';
+   	src: url('../../assets/fonts/TTNorms-LightItalic.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsLight';
+   	src: url('../../assets/fonts/TTNorms-Light.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsMedium';
+   	src: url('../../assets/fonts/TTNorms-Medium.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsMediumItalic';
+   	src: url('../../assets/fonts/TTNorms-MediumItalic.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsRegular';
+   	src: url('../../assets/fonts/TTNorms-Regular.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsThin';
+   	src: url('../../assets/fonts/TTNorms-Thin.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+@font-face {
+    font-family: 'TTNormsThinItalic';
+   	src: url('../../assets/fonts/TTNorms-ThinItalic.otf') format('opentype');
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsBlack {
+	font-family: 'TTNormsBlack' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsBlackItalic {
+	font-family: 'TTNormsBlackItalic' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsBold {
+	font-family: 'TTNormsBold' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsBoldItalic {
+	font-family: 'TTNormsBoldItalic' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsExtraBold {
+	font-family: 'TTNormsExtraBold' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsExtraBoldItalic {
+	font-family: 'TTNormsExtraBoldItalic' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsExtraLight {
+	font-family: 'TTNormsExtraLight' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsExtraLightItalic {
+	font-family: 'TTNormsExtraLightItalic' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsHeavy {
+    font-family: 'TTNormsHeavy' !important;
+   	font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsHeavyItalic {
+	font-family: 'TTNormsHeavyItalic' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsItalic {
+    font-family: 'TTNormsItalic' !important;
+}
+
+.TTNormsLightItalic {
+	font-family: 'TTNormsLightItalic' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsLight {
+	font-family: 'TTNormsLight' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsMedium {
+	font-family: 'TTNormsMedium' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsMediumItalic {
+    font-family: 'TTNormsMediumItalic' !important;
+    font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsRegular {
+	font-family: 'TTNormsRegular' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsThin {
+	font-family: 'TTNormsThin' !important;
+	text-rendering: optimizeSpeed;
+}
+
+.TTNormsThinItalic {
+	font-family: 'TTNormsThinItalic' !important;
+	text-rendering: optimizeSpeed;
+}
